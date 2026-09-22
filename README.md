@@ -1,4 +1,5 @@
-# Neural Network From Scratch
+# Customer Purchase Prediction
+  A single-neuron neural network built from scratch using Python and NumPy.
 
 A tiny neural network built from scratch using **Python and NumPy**, without PyTorch, TensorFlow, or any machine-learning framework.
 
