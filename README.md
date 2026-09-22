@@ -182,17 +182,5 @@ This project helped me move from understanding neural networks conceptually to i
 - how matrix dimensions fit together
 - how backpropagation connects the error back to the weights
 
-## Next step
 
-The next stage is to move from a manually implemented neuron to **PyTorch**, while continuing to understand what each abstraction is doing underneath.
 
-After that, the goal is to build the components required for a tiny language model:
-
-```text
-Tokenization
-→ Token IDs
-→ Embeddings
-→ Self-Attention
-→ Transformer
-→ Next-token prediction
-```
